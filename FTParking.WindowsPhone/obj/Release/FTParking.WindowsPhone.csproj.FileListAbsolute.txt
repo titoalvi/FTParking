@@ -1,0 +1,336 @@
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\App.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Controls\ErrorNotificationControl.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\AppBarButtons.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\AppTheme.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\DefaultTheme.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Controls\ConnectionNotificationControl.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Controls\ImageViewer.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Controls\YouTubeViewer.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AboutThisAppPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\ParkingSlotPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\WelcomeListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\UserProfileListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\UserProfileDetailPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\LoginWithListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Views\AboutListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\FontSizes.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\ButtonStyles.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\GridView.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\Layouts\DetailLayouts.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\Layouts\ListLayouts.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Styles\PlatformStyles.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.xr.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.exe
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.pdb
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\resources.pri
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.build.appxrecipe
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Microsoft.Xaml.Interactions.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Microsoft.Xaml.Interactivity.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.Common.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\HtmlAgilityPack.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.Common.pdb
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.Common.pri
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.pdb
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.pri
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\GridView.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\GridView.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.g.i.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\App.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\GridView.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\App.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\GridView.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.xaml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.xbf
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.exe
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.pdb
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AppStudio.Common.pri.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\AppStudio.DataProviders.pri.xml
+C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\App.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ErrorNotificationControl.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\AppBarButtons.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\AppTheme.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\DefaultTheme.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ConnectionNotificationControl.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ImageViewer.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\YouTubeViewer.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AboutThisAppPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\ParkingSlotPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\WelcomeListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\UserProfileListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\UserProfileDetailPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\LoginWithListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\AboutListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\FontSizes.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\ButtonStyles.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\GridView.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\Layouts\DetailLayouts.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\Layouts\ListLayouts.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\PlatformStyles.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.xr.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.exe
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.pdb
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\resources.pri
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.build.appxrecipe
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Microsoft.Xaml.Interactions.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Microsoft.Xaml.Interactivity.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.Common.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\HtmlAgilityPack.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.Common.pdb
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.Common.pri
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.pdb
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppStudio.DataProviders.pri
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\GridView.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\GridView.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\App.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\GridView.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\App.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ConnectionNotificationControl.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ImageViewer.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\YouTubeViewer.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AboutThisAppPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ParkingSlotPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\WelcomeListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\UserProfileDetailPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\LoginWithListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\AboutListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\FontSizes.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\ButtonStyles.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\GridView.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\DetailLayouts.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\Layouts\ListLayouts.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\PlatformStyles.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Controls\ErrorNotificationControl.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppBarButtons.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\AppTheme.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Styles\DefaultTheme.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.exe
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.pdb
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AppStudio.Common.pri.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\AppStudio.DataProviders.pri.xml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenahPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenahPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenahPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenahPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenahPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah2Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah2Page.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah2Page.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah2Page.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah2Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah3Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah3Page.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah3Page.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah3Page.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah3Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah4Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah4Page.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah4Page.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah4Page.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\PetaDenah4Page.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\TutorialPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\TutorialListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\TutorialPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\TutorialPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\TutorialListPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\TutorialListPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\TutorialPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\TutorialListPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\TutorialPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\TutorialListPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ManualSignPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ManualSignPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ManualSignPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\ManualSignPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\ManualSignPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.exe.config
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\MapFullPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\MapFullPage.g.i.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\MapFullPage.g.cs
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\MapFullPage.xaml
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\Views\MapFullPage.xbf
+C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\FTParking.WindowsPhone.csprojResolveAssemblyReference.cache

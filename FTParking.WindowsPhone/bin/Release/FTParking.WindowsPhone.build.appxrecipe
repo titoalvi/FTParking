@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TITOALVI-LAPTOP</Machine>
+    <WindowsUser>Titoalvi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>29b68e9b-1f30-40b9-bc34-f38e5f1205f1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.exe">
+      <PackagePath>FTParking.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.exe.config">
+      <PackagePath>FTParking.WindowsPhone.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\packages\WindowsAppStudio.Common.1.0.1\lib\portable-win81+wpa81\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\packages\WindowsAppStudio.DataProviders.1.0.1\lib\portable-win81+wpa81\AppStudio.DataProviders.dll">
+      <PackagePath>AppStudio.DataProviders.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\board.png">
+      <PackagePath>Assets\DataImages\board.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\contactinfo.png">
+      <PackagePath>Assets\DataImages\contactinfo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\Google.png">
+      <PackagePath>Assets\DataImages\Google.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\Google2.PNG">
+      <PackagePath>Assets\DataImages\Google2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\ManualSignUp.PNG">
+      <PackagePath>Assets\DataImages\ManualSignUp.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\map_icon.png">
+      <PackagePath>Assets\DataImages\map_icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\peta.png">
+      <PackagePath>Assets\DataImages\peta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\question.png">
+      <PackagePath>Assets\DataImages\question.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\SignUP_icon.png">
+      <PackagePath>Assets\DataImages\SignUP_icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\slot155.PNG">
+      <PackagePath>Assets\DataImages\slot155.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\slot326.PNG">
+      <PackagePath>Assets\DataImages\slot326.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\slot391.PNG">
+      <PackagePath>Assets\DataImages\slot391.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\slot518.PNG">
+      <PackagePath>Assets\DataImages\slot518.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\SlotMaps.PNG">
+      <PackagePath>Assets\DataImages\SlotMaps.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\SlotPage.PNG">
+      <PackagePath>Assets\DataImages\SlotPage.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\DarkGray.png">
+      <PackagePath>Assets\Design\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\LightGray.png">
+      <PackagePath>Assets\Design\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\MediumGray.png">
+      <PackagePath>Assets\Design\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\nokia-maps-position.png">
+      <PackagePath>Assets\DataImages\nokia-maps-position.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\url.png">
+      <PackagePath>Assets\DataImages\url.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\mailto.png">
+      <PackagePath>Assets\DataImages\mailto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\Google_-G-_Logo.svg.png">
+      <PackagePath>Assets\DataImages\Google_-G-_Logo.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\Twitter-Icon-PNG-02771.png">
+      <PackagePath>Assets\DataImages\Twitter-Icon-PNG-02771.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\Master.jpg">
+      <PackagePath>Assets\DataImages\Master.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\slot555.jpg">
+      <PackagePath>Assets\DataImages\slot555.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\DataImages\ftui-depan.jpg">
+      <PackagePath>Assets\DataImages\ftui-depan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Data\Tutorial.htm">
+      <PackagePath>Assets\Data\Tutorial.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Data\About.htm">
+      <PackagePath>Assets\Data\About.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Data\ParkingSlot.json">
+      <PackagePath>Assets\Data\ParkingSlot.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\DesignData.json">
+      <PackagePath>Assets\Design\DesignData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\DesignDataHtml.json">
+      <PackagePath>Assets\Design\DesignDataHtml.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\DesignDataMenu.json">
+      <PackagePath>Assets\Design\DesignDataMenu.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Design\DesignDataTD.json">
+      <PackagePath>Assets\Design\DesignDataTD.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Data\Welcome.json">
+      <PackagePath>Assets\Data\Welcome.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.Shared\Assets\Data\LoginWith.json">
+      <PackagePath>Assets\Data\LoginWith.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\FTParking.WindowsPhone.xr.xml">
+      <PackagePath>FTParking.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ErrorNotificationControl.xbf">
+      <PackagePath>Controls\ErrorNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\AppBarButtons.xbf">
+      <PackagePath>Styles\AppBarButtons.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ConnectionNotificationControl.xbf">
+      <PackagePath>Controls\ConnectionNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\ImageViewer.xbf">
+      <PackagePath>Controls\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\AboutThisAppPage.xbf">
+      <PackagePath>AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\TutorialPage.xbf">
+      <PackagePath>TutorialPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\ManualSignPage.xbf">
+      <PackagePath>Views\ManualSignPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\MapFullPage.xbf">
+      <PackagePath>Views\MapFullPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\TutorialListPage.xbf">
+      <PackagePath>Views\TutorialListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\ParkingSlotPage.xbf">
+      <PackagePath>Views\ParkingSlotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah2Page.xbf">
+      <PackagePath>Views\PetaDenah2Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah3Page.xbf">
+      <PackagePath>Views\PetaDenah3Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenah4Page.xbf">
+      <PackagePath>Views\PetaDenah4Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\PetaDenahPage.xbf">
+      <PackagePath>Views\PetaDenahPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\WelcomeListPage.xbf">
+      <PackagePath>Views\WelcomeListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\UserProfileListPage.xbf">
+      <PackagePath>Views\UserProfileListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\UserProfileDetailPage.xbf">
+      <PackagePath>Views\UserProfileDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\LoginWithListPage.xbf">
+      <PackagePath>Views\LoginWithListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Views\AboutListPage.xbf">
+      <PackagePath>Views\AboutListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\GridView.xbf">
+      <PackagePath>Styles\GridView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\Layouts\DetailLayouts.xbf">
+      <PackagePath>Styles\Layouts\DetailLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\Layouts\ListLayouts.xbf">
+      <PackagePath>Styles\Layouts\ListLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Desktop\RPL Baru\FTParking.Source-v1.0.2.3 - Copy\FTParking.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

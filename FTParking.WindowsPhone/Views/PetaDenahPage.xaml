@@ -1,0 +1,49 @@
+<base:PageBase
+    x:Class="FTParking.Views.PetaDenahPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:was_actions="using:AppStudio.Common.Actions"
+    xmlns:base="using:FTParking"
+    xmlns:controls="using:FTParking.Controls"
+    xmlns:vm="using:FTParking.ViewModels"
+    DataContext="{Binding ViewModel, RelativeSource={RelativeSource Self}}"
+    d:DataContext="{d:DesignData Source=/Assets/Design/DesignData.json, Type=vm:DesignViewModel, IsDesignTimeCreatable=true}"
+    mc:Ignorable="d">
+    <Frame>
+        <Grid Background="{StaticResource AppBackground}">
+
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Hub x:Name="Container" Margin="0,32,0,0" Background="{StaticResource AppBackground}" DataContext="{Binding}" HeaderTemplate="{StaticResource PageHeader}">
+                <HubSection Header="Here your parking slot!" HeaderTemplate="{StaticResource HubSectionHeaderTemplate}"
+                        IsHeaderInteractive="False"/>
+            </Hub>
+
+            <ScrollViewer x:Name="scrollViewer" 
+                  VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" 
+                  ZoomMode="Enabled" Margin="0,161,0,179">
+
+                <Image Source="/Assets/DataImages/slot155.png" Height="248" Width="355"/>
+
+            </ScrollViewer>
+
+
+            <Button Background="Green"  x:Name="finished" Content="Finished Parking" FontSize="25" Margin="10,536,0,1" Click="Launch_Click" Height="78" Width="380"/>
+            <Button Background="Red" x:Name="fin" Content="Change Slot" FontSize="25" Margin="10,446,0,91" Click="Launch_Click2" Height="78" Width="380"/>
+            <controls:ConnectionNotificationControl Grid.Row="1" LastUpdateDateTime="{Binding LastUpdated}" Margin="24,4,24,4" HorizontalAlignment="Right"
+                                                Visibility="{Binding HasLocalData, Converter={StaticResource BoolToVisibilityConverter}, ConverterParameter=True, FallbackValue=Collapsed}"/>
+
+
+
+        </Grid>
+    </Frame>
+    <Page.BottomAppBar>
+        <was_actions:ActionsCommandBar ClosedDisplayMode="Minimal" ActionsSource="{Binding Actions}" Visibility="{Binding HasActions, Converter={StaticResource BoolToVisibilityConverter}}"
+                                       Background="{StaticResource AppBarBackground}" BorderBrush="{StaticResource AppBarBackground}" Foreground="{StaticResource AppBarForeground}"/>
+    </Page.BottomAppBar>
+</base:PageBase>

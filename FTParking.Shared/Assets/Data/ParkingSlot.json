@@ -1,0 +1,37 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Slot 155",
+    "Icon": "/Assets/DataImages/nokia-maps-position.png",
+    "Target": "PetaDenahPage",
+    "_id": "8b845648-539e-4935-803c-179898fc531b"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Slot 326",
+    "Icon": "/Assets/DataImages/nokia-maps-position.png",
+    "Target": "PetaDenah2Page",
+    "_id": "e5e13ac4-9822-4d9d-90ec-dd3a48e860f6"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Slot 391",
+    "Icon": "/Assets/DataImages/nokia-maps-position.png",
+    "Target": "PetaDenah3Page",
+    "_id": "70f5f80e-8404-4485-a99d-5908c362ea34"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Slot 518",
+    "Icon": "/Assets/DataImages/nokia-maps-position.png",
+    "Target": "PetaDenah4Page",
+    "_id": "0164323a-6949-4104-88e6-db9e76fcaa9f"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Slot 555",
+    "Icon": "/Assets/DataImages/nokia-maps-position.png",
+    "Target": "PetaDenah5Page",
+    "_id": "0255433a-6949-4104-88e6-db9e76fcaa9f"
+  }
+]

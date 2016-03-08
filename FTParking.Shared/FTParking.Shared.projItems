@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\ManualSignConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\MapFullConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\TutorialConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\PetaDenah2Config.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\PetaDenah3Config.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\PetaDenah4Config.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\PetaDenahConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\ParkingSlotConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ManualSignPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MapFullPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\TutorialListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PetaDenah2Page.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PetaDenah3Page.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PetaDenah4Page.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PetaDenahPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ParkingSlotPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\TutorialPage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Config\ActionConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\ConfigBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\PageConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\SectionConfigBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DesignTime\DesignViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\TileServices.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\AboutThisAppViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ComposedItemViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\DataViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\DetailViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ItemViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ListViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MainViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\PrivacyViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MenuExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ImageViewer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\WelcomeListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\UserProfileListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\UserProfileDetailPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LoginWithListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\AboutListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MainPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PageBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\UserProfile1Schema.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\WelcomeConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\UserProfileConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\LoginWithConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sections\AboutConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Commands\PlatformCommands.cs" />
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\Resources.resw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\board.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\contactinfo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\Google.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\Google2.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\ManualSignUp.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\map_icon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\Master.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\peta.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\question.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\SignUP_icon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\slot155.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\slot326.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\slot391.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\slot518.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\slot555.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\SlotMaps.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\SlotPage.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Data\Tutorial.htm" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Data\About.htm" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Data\ParkingSlot.json" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\DesignData.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\DesignDataHtml.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\DesignDataMenu.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\DesignDataTD.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\DarkGray.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\LightGray.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Design\MediumGray.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\FlipSquareTile.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\FlipWideTile.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\nokia-maps-position.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\url.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\mailto.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\Google_-G-_Logo.svg.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\Twitter-Icon-PNG-02771.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DataImages\ftui-depan.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ApplicationLogo.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Data\Welcome.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Data\LoginWith.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\ErrorNotificationControl.xaml.cs">
+      <DependentUpon>ErrorNotificationControl.xaml</DependentUpon>
+    </Compile>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\ErrorNotificationControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Styles\AppBarButtons.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Styles\AppTheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Styles\DefaultTheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+</Project>

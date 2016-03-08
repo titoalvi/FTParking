@@ -1,0 +1,23 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "Google Account",
+    "Icon": "/Assets/DataImages/Google_-G-_Logo.svg.png",
+    "Target": "https://accounts.google.com/o/oauth2/auth?client_id=343578014241-v4ar58l2s6b73j8qr2t9dpd1oa6sje5p.apps.googleusercontent.com&redirect_uri=urn:ietf:wg:oauth:2.0:oob&response_type=code&scope=https://www.googleapis.com/auth/userinfo.email",
+    "_id": "41eea870-4fc6-4cfb-a5ce-30b4e8873f9b"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Twitter Account",
+    "Icon": "/Assets/DataImages/Twitter-Icon-PNG-02771.png",
+    "Target": "http://twitter.com",
+    "_id": "be54e036-13e6-48ad-a8de-aca6b0af099e"
+  },
+   {
+    "MenuType": "Page",
+    "Title": "Manual Sign Up",
+    "Icon": "/Assets/DataImages/SignUP_icon.png",
+    "Target": "ManualSignPage",
+    "_id": "be544664a-13e6-48ad-a8de-aca6b0af099e"
+  }
+]

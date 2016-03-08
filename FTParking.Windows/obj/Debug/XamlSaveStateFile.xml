@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\titoalvi\downloads\compressed\ftparking.source-v1.0.2.3\packages\windowsappstudio.common.1.0.1\lib\portable-win81+wpa81\appstudio.common.dll" HashGuid="bf4f70ae-9a11-ab6f-4949-cb148a07b315" />
+    <ReferenceAssembly PathName="c:\users\titoalvi\downloads\compressed\ftparking.source-v1.0.2.3\packages\windowsappstudio.dataproviders.1.0.1\lib\portable-win81+wpa81\appstudio.dataproviders.dll" HashGuid="8e6c5f55-a161-846e-fdd0-6163d87ad2be" />
+    <ReferenceAssembly PathName="c:\users\titoalvi\downloads\compressed\ftparking.source-v1.0.2.3\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\titoalvi\downloads\compressed\ftparking.source-v1.0.2.3\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

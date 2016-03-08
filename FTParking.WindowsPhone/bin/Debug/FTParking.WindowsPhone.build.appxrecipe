@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TITOALVI-LAPTOP</Machine>
+    <WindowsUser>Titoalvi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>29b68e9b-1f30-40b9-bc34-f38e5f1205f1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\FTParking.WindowsPhone.exe">
+      <PackagePath>FTParking.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\packages\WindowsAppStudio.Common.1.0.1\lib\portable-win81+wpa81\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\packages\WindowsAppStudio.DataProviders.1.0.1\lib\portable-win81+wpa81\AppStudio.DataProviders.dll">
+      <PackagePath>AppStudio.DataProviders.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\DarkGray.png">
+      <PackagePath>Assets\Design\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\LightGray.png">
+      <PackagePath>Assets\Design\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\MediumGray.png">
+      <PackagePath>Assets\Design\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\contactinfo.png">
+      <PackagePath>Assets\DataImages\contactinfo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\nokia-maps-position.png">
+      <PackagePath>Assets\DataImages\nokia-maps-position.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\url.png">
+      <PackagePath>Assets\DataImages\url.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\mailto.png">
+      <PackagePath>Assets\DataImages\mailto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\Google_-G-_Logo.svg.png">
+      <PackagePath>Assets\DataImages\Google_-G-_Logo.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\Twitter-Icon-PNG-02771.png">
+      <PackagePath>Assets\DataImages\Twitter-Icon-PNG-02771.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Data\About.htm">
+      <PackagePath>Assets\Data\About.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Data\ParkingSlot.json">
+      <PackagePath>Assets\Data\ParkingSlot.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\DesignData.json">
+      <PackagePath>Assets\Design\DesignData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\DesignDataHtml.json">
+      <PackagePath>Assets\Design\DesignDataHtml.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\DesignDataMenu.json">
+      <PackagePath>Assets\Design\DesignDataMenu.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Design\DesignDataTD.json">
+      <PackagePath>Assets\Design\DesignDataTD.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Data\Welcome.json">
+      <PackagePath>Assets\Data\Welcome.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\Data\LoginWith.json">
+      <PackagePath>Assets\Data\LoginWith.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.Shared\Assets\DataImages\ftui-depan.jpg">
+      <PackagePath>Assets\DataImages\ftui-depan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\FTParking.WindowsPhone.xr.xml">
+      <PackagePath>FTParking.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Controls\ErrorNotificationControl.xbf">
+      <PackagePath>Controls\ErrorNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\AppBarButtons.xbf">
+      <PackagePath>Styles\AppBarButtons.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Controls\ConnectionNotificationControl.xbf">
+      <PackagePath>Controls\ConnectionNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Controls\ImageViewer.xbf">
+      <PackagePath>Controls\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\AboutThisAppPage.xbf">
+      <PackagePath>AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\ParkingSlotPage.xbf">
+      <PackagePath>Views\ParkingSlotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\WelcomeListPage.xbf">
+      <PackagePath>Views\WelcomeListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\UserProfileListPage.xbf">
+      <PackagePath>Views\UserProfileListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\UserProfileDetailPage.xbf">
+      <PackagePath>Views\UserProfileDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\LoginWithListPage.xbf">
+      <PackagePath>Views\LoginWithListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Views\AboutListPage.xbf">
+      <PackagePath>Views\AboutListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\GridView.xbf">
+      <PackagePath>Styles\GridView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\Layouts\DetailLayouts.xbf">
+      <PackagePath>Styles\Layouts\DetailLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\Layouts\ListLayouts.xbf">
+      <PackagePath>Styles\Layouts\ListLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Titoalvi\Downloads\Compressed\FTParking.Source-v1.0.2.3\FTParking.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
